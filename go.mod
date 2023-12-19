@@ -7,6 +7,7 @@ require (
 	github.com/goreleaser/goreleaser v1.8.3
 	github.com/magefile/mage v1.14.0
 	github.com/spf13/cobra v1.5.0
+	github.com/tj/assert v0.0.3
 	golang.org/x/tools v0.1.11-0.20220316014157-77aa08bb151a
 )
 
@@ -42,7 +43,7 @@ require (
 	github.com/GaijinEntertainment/go-exhaustruct/v2 v2.1.0 // indirect
 	github.com/Masterminds/goutils v1.1.1 // indirect
 	github.com/Masterminds/semver v1.5.0 // indirect
-	github.com/Masterminds/semver/v3 v3.1.1 // indirect
+	github.com/Masterminds/semver/v3 v3.2.1 // indirect
 	github.com/Masterminds/sprig v2.22.0+incompatible // indirect
 	github.com/Microsoft/go-winio v0.5.0 // indirect
 	github.com/OpenPeeDeeP/depguard v1.1.0 // indirect
